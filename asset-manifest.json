@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/khoahyh.github.io/markdown-previewer/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/khoahyh.github.io/markdown-previewer/static/js/main.b0eebfdd.chunk.js",
-    "main.js.map": "/khoahyh.github.io/markdown-previewer/static/js/main.b0eebfdd.chunk.js.map",
-    "runtime-main.js": "/khoahyh.github.io/markdown-previewer/static/js/runtime-main.e8397481.js",
-    "runtime-main.js.map": "/khoahyh.github.io/markdown-previewer/static/js/runtime-main.e8397481.js.map",
-    "static/js/2.a477e504.chunk.js": "/khoahyh.github.io/markdown-previewer/static/js/2.a477e504.chunk.js",
-    "static/js/2.a477e504.chunk.js.map": "/khoahyh.github.io/markdown-previewer/static/js/2.a477e504.chunk.js.map",
-    "static/js/3.9dd2c708.chunk.js": "/khoahyh.github.io/markdown-previewer/static/js/3.9dd2c708.chunk.js",
-    "static/js/3.9dd2c708.chunk.js.map": "/khoahyh.github.io/markdown-previewer/static/js/3.9dd2c708.chunk.js.map",
-    "index.html": "/khoahyh.github.io/markdown-previewer/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/khoahyh.github.io/markdown-previewer/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.a477e504.chunk.js.LICENSE.txt": "/khoahyh.github.io/markdown-previewer/static/js/2.a477e504.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/khoahyh.github.io/markdown-previewer/static/media/logo.6ce24c58.svg"
+    "main.css": "/markdown-previewer/static/css/main.72843ef9.chunk.css",
+    "main.js": "/markdown-previewer/static/js/main.d40e4319.chunk.js",
+    "main.js.map": "/markdown-previewer/static/js/main.d40e4319.chunk.js.map",
+    "runtime-main.js": "/markdown-previewer/static/js/runtime-main.9620b9e4.js",
+    "runtime-main.js.map": "/markdown-previewer/static/js/runtime-main.9620b9e4.js.map",
+    "static/js/2.f6f9981c.chunk.js": "/markdown-previewer/static/js/2.f6f9981c.chunk.js",
+    "static/js/2.f6f9981c.chunk.js.map": "/markdown-previewer/static/js/2.f6f9981c.chunk.js.map",
+    "static/js/3.152b371f.chunk.js": "/markdown-previewer/static/js/3.152b371f.chunk.js",
+    "static/js/3.152b371f.chunk.js.map": "/markdown-previewer/static/js/3.152b371f.chunk.js.map",
+    "index.html": "/markdown-previewer/index.html",
+    "static/css/main.72843ef9.chunk.css.map": "/markdown-previewer/static/css/main.72843ef9.chunk.css.map",
+    "static/js/2.f6f9981c.chunk.js.LICENSE.txt": "/markdown-previewer/static/js/2.f6f9981c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e8397481.js",
-    "static/js/2.a477e504.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.b0eebfdd.chunk.js"
+    "static/js/runtime-main.9620b9e4.js",
+    "static/js/2.f6f9981c.chunk.js",
+    "static/css/main.72843ef9.chunk.css",
+    "static/js/main.d40e4319.chunk.js"
   ]
 }
