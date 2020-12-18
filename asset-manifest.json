@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/khoahyh.github.io/markdown-previewer/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/khoahyh.github.io/markdown-previewer/static/js/main.b0eebfdd.chunk.js",
+    "main.js.map": "/khoahyh.github.io/markdown-previewer/static/js/main.b0eebfdd.chunk.js.map",
+    "runtime-main.js": "/khoahyh.github.io/markdown-previewer/static/js/runtime-main.e8397481.js",
+    "runtime-main.js.map": "/khoahyh.github.io/markdown-previewer/static/js/runtime-main.e8397481.js.map",
+    "static/js/2.a477e504.chunk.js": "/khoahyh.github.io/markdown-previewer/static/js/2.a477e504.chunk.js",
+    "static/js/2.a477e504.chunk.js.map": "/khoahyh.github.io/markdown-previewer/static/js/2.a477e504.chunk.js.map",
+    "static/js/3.9dd2c708.chunk.js": "/khoahyh.github.io/markdown-previewer/static/js/3.9dd2c708.chunk.js",
+    "static/js/3.9dd2c708.chunk.js.map": "/khoahyh.github.io/markdown-previewer/static/js/3.9dd2c708.chunk.js.map",
+    "index.html": "/khoahyh.github.io/markdown-previewer/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/khoahyh.github.io/markdown-previewer/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.a477e504.chunk.js.LICENSE.txt": "/khoahyh.github.io/markdown-previewer/static/js/2.a477e504.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/khoahyh.github.io/markdown-previewer/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8397481.js",
+    "static/js/2.a477e504.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.b0eebfdd.chunk.js"
+  ]
+}
